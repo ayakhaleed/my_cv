@@ -1,0 +1,113 @@
+img{
+    width: 98%;
+    height: 7%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+    
+    
+}
+#img{
+    background-color: cadetblue;
+    width:12%;
+    border-radius: 20px;
+    padding: 2px;
+    float: right;
+    margin-top: -22%;
+    border-color: #66ff99;
+    border-style: dotted;
+    margin-right: -2%;
+    padding-right: -100px;
+    
+    
+    
+
+}
+#mn{
+    color:#000000;
+    font-size: 30px;
+    font-family: "lobster";
+    border-color: #66ff99;
+    border-style: dotted;
+    border-radius: 20px;
+    width: 75%;
+    margin-bottom: -60px;
+    padding-bottom: 5%;
+    text-shadow:1.5px 1.5px#66d9ff;
+    background-color:#99ffcc;
+    
+    
+}
+#intext{
+    padding-left: 10%;
+    color:#000000;
+    font-size: 30px;
+    font-family: "lobster";
+    padding-top: 2%;
+    margin-bottom: 8%;
+    text-shadow:1.5px 1.5px #66d9ff;
+    
+}
+#name{
+    background-image: url("p1.jfif");
+    border-radius: 20px;
+    border-color: #66ff99;
+    border-style: double;
+    width: 50%;
+    margin-top: 4%;
+    margin-left: 27%;
+    float: right;
+    
+}
+body{
+    background-image:url("p6.jpg") ;
+}
+#d{
+    color:#ffffff;
+    font-size: 15px;
+    font-family: "lobster";
+    padding-left: 50%;
+    margin-top: -5%;
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    
+}
+.lab{
+    background-color: #bfbfbf;
+    width: 30%;
+
+}
+.val{
+    background-color: #85e0e0;
+    width: 30%;
+    float: right;
+}
+hr{
+    
+    height: 20px;
+    background: url("ho2.jfif")  center;
+    border: none;
+    background-color: #85e0e0;
+    
+}
+.circle {
+    height: 150px;
+    width: 150px;
+    background-color: #555555;
+    border-radius: 50%;
+  }
+  .oval {
+    height: 150px;
+    width: 200px;
+    background-color: #8ec6c7;
+    border-radius: 50%;
+    margin-left: 100px;
+  }
+  .circle2 {
+    height: 150px;
+    width: 150px;
+    background-color: #b07dac;
+    border-radius: 50%;
+    margin-top: -65px;
+    margin-left:70px ;
+  }
